@@ -1,6 +1,7 @@
 hello
 <<<<<<< HEAD
-Ashwini
+Welcome Ashwini
 adding new line
+
 =======
 >>>>>>> parent of 86d0f8e (added new contents)
