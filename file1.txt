@@ -1,8 +1,6 @@
 hello
-
-<<<<<<< HEAD
 Welcome Ashwini
-Hello- I am adding new lines to this
+I am adding new lines to this
 
-=======
->>>>>>> parent of 86d0f8e (added new contents)
+
+
