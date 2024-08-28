@@ -1,3 +1,6 @@
 How are you ?
+<<<<<<< HEAD
 This is Git session
 git assigment 
+=======
+>>>>>>> parent of 86d0f8e (added new contents)
