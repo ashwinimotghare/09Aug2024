@@ -1,1 +1,2 @@
 How are you ?
+This is Git session
