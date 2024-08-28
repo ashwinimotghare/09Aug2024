@@ -1,7 +1,7 @@
 hello
 <<<<<<< HEAD
 Welcome Ashwini
-adding new line
+I am adding new lines to this
 
 =======
 >>>>>>> parent of 86d0f8e (added new contents)
